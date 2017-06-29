@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.625, 8.5" name="IDCards">
+  <DataContextMoniker Name="/IDCardsDataContext" />
+  <nestedChildShapes>
+    <classShape Id="58992f79-0ae3-427b-85df-1ee1bd0b9587" absoluteBounds="5.625, 3, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/IDCardsDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8aff8d4e-7d3c-47f2-9888-d60aa27b63c1" absoluteBounds="5.64, 3.46, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="711648f8-e2ea-4426-8a0b-623d6376d55a" absoluteBounds="4.375, 1.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/IDCardsDataContext/Card" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a9a26658-39aa-4cec-a3f5-4e7ef85fa4eb" absoluteBounds="4.39, 2.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.625 : 4.81895232291667); (4.9999995 : 4.81895232291667); (4.9999995 : 3.1362939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/IDCardsDataContext/User/User_Card" />
+      <nodes>
+        <classShapeMoniker Id="58992f79-0ae3-427b-85df-1ee1bd0b9587" />
+        <classShapeMoniker Id="711648f8-e2ea-4426-8a0b-623d6376d55a" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="593fda72-eb05-43a5-9537-5fcdff6185b8" absoluteBounds="9.375, 2.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/IDCardsDataContext/Photo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ddc45767-234d-4ca9-874c-75e4d665c5b5" absoluteBounds="9.39, 2.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

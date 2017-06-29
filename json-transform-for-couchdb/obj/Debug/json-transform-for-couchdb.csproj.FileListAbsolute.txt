@@ -1,0 +1,8 @@
+D:\LocalCode\mattUtility\json-transform-for-couchdb\bin\Debug\json-transform-for-couchdb.exe.config
+D:\LocalCode\mattUtility\json-transform-for-couchdb\bin\Debug\json-transform-for-couchdb.exe
+D:\LocalCode\mattUtility\json-transform-for-couchdb\bin\Debug\json-transform-for-couchdb.pdb
+D:\LocalCode\mattUtility\json-transform-for-couchdb\bin\Debug\Newtonsoft.Json.dll
+D:\LocalCode\mattUtility\json-transform-for-couchdb\bin\Debug\Newtonsoft.Json.xml
+D:\LocalCode\mattUtility\json-transform-for-couchdb\obj\Debug\json-transform-for-couchdb.csprojResolveAssemblyReference.cache
+D:\LocalCode\mattUtility\json-transform-for-couchdb\obj\Debug\json-transform-for-couchdb.exe
+D:\LocalCode\mattUtility\json-transform-for-couchdb\obj\Debug\json-transform-for-couchdb.pdb
